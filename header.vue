@@ -4,6 +4,12 @@
 	</header>
 </template>
 
+<script>
+	export default {
+		name: 'HeaderComponent'
+	}
+</script>
+
 <style lang="scss" scoped>
 	header {
 		padding: 16px;
